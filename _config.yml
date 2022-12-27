@@ -98,7 +98,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=htQ6wKcAAAAJ"
   email            : "qingtao.chen@polymtl.ca"
-  researchgate     : "https://www.researchgate.net/profile/Qingtao-Chen"
+  researchgate     : #"https://www.researchgate.net/profile/Qingtao-Chen"
   uri              :
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "qingtaochen"
-  orcid            : "https://orcid.org/0000-0002-0692-5819"
+  orcid            : #"https://orcid.org/0000-0002-0692-5819"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
