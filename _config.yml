@@ -11,7 +11,7 @@ title                    : "Qingtao Chen - Homepage"
 title_separator          : "-"
 name                     : &name "Qingtao Chen"
 description              : &description "Research Assistant"
-description              : &description "Electrical Engineering | Polytechnique Montreal, University of Montreal"
+description              : &description "Electrical Engineering | Polytechnique Montreal | University of Montreal"
 url                      : https://qicheb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qicheb/qicheb.github.io"
@@ -87,17 +87,18 @@ author:
     Research Assistant <br>
     Electrical Engineering <br>
     Poly-Grames Research Center <br>
-    Polytechnique Montreal, University of Montreal <br>
+    Polytechnique Montreal <br>
+    University of Montreal <br>
     <br>
     Address: 2500 Chemin de Polytechnique <br>
     Lassonde Building <br>
     Montreal, QC H3T 1J4, Canada <br>
   location         : "Montreal, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=htQ6wKcAAAAJ"
   email            : "qingtao.chen@polymtl.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Qingtao-Chen"
   uri              :
   bitbucket        :
   codepen          :
