@@ -21,7 +21,7 @@ You can also find more about my research on [Google Scholar](https://scholar.goo
 Journal Publications
 ======
 
-[1]	Qingtao Chen, Wenjing Fang, Yongqing Huang, Xiaofeng Duan, Kai Liu, Mohammad S. Sharawi, and Xiaomin Ren. Uni-traveling-carrier photodetector with high-contrast grating focusing-reflection mirrors. Appl. Phys. Express 13, 016503 (2020).
+[1]	Qingtao Chen, Wenjing Fang, Yongqing Huang, Xiaofeng Duan, Kai Liu, Mohammad S. Sharawi, and Xiaomin Ren. Uni-traveling-carrier photodetector with high-contrast grating focusing-reflection mirrors. Appl. Phys. Express 13, 016503, 2020.
 
 [2]	Tao Liu, Yongqing Huang, Jiarui Fei, Qingtao Chen, Xiaokai Ma, Xiaofeng Duan, Kai Liu, and Xiaomin Ren. Influences of contact electrode shape and incidence direction on p-i-n photodiodes. IET Optoelectronics, Vol.13, No.4, pp. 151-154, 2019.
 
