@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -12,8 +12,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
-
+{% endfor %} -->
 
 You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?hl=en&user=htQ6wKcAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Qingtao-Chen) profile.
 
