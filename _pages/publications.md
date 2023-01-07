@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -18,7 +17,7 @@ author_profile: true
 
 You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?hl=en&user=htQ6wKcAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Qingtao-Chen) profile.
 
-Journal Publications
+Journal publications
 ======
 
 [1]	Qingtao Chen, Wenjing Fang, Yongqing Huang, Xiaofeng Duan, Kai Liu, Mohammad S. Sharawi, and Xiaomin Ren. Uni-traveling-carrier photodetector with high-contrast grating focusing-reflection mirrors. Appl. Phys. Express 13, 016503, 2020.
@@ -36,7 +35,7 @@ Journal Publications
 [7]	Qingtao Chen, Zengli Liu, Tianliang Peng, and Keyin Tang. Circulation spectrum analysis of rotating machinery vibration signal. Journal of Guizhou University (Natural Sciences, Chinese Edition), 28(6), pp. 82-86, 2011.
 
 
-Conference Publications
+Conference publications
 ======
 
 [1]	Qingtao chen, Jean-Sébastien Boisvert, Mohammad S. Sharawi, Raman Kashyap. FS Laser Writing of 2nd-order line-Bragg Grating. The 6th Montreal Photonics Networking Event, in École de technologie supérieure ÉTS, December 2nd, 2022, Montreal, Canada. (Poster presentation)
