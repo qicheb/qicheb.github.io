@@ -37,6 +37,7 @@ Research Experience
 *	Measure the mode near field for waveguides <br>
 *	Measure the reflection and transmission spectra for dot- and line-Bragg gratings <br>
 *	Measure the group delay in reflection for line-Bragg grating by Luna OBR 4600 <br>
+
 [3]	May 2019- May 2021: Microwave theory and ADS simulation,  Antennas theory, Modern antenna design and simulation by HFSS and CST, Slow-wave subwavelength grating devices theoretical calculation, Theory learning of femtosecond laser writing of waveguides. <br>
 [4]	May. 2018-Apr. 2019: High-speed and high responsivity InP-based photodetectors, Si-based GeSn  mid-infrared photodetectors and CMOS integration. <br>
 [5]	Oct. 2017-Mar. 2018: Designed, fabricated and measured uni-traveling-carrier photodetector (UTC-PD) integrated with Si-based non-periodical concentric circular subwavelength grating. <br>
