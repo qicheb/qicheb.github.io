@@ -59,6 +59,7 @@ Research Experience
 Project Experience
 ======
 [1]	June 2021-Present: Transparent Glass Excited Radiant Element Systems, New Frontiers in Research Fund (NFRF) of Canada. Main participant <br>
+
 [2]	May 2019-Present: Advanced Integrated Antenna Systems for Future Wireless Terminals, Natural Sciences and Engineering Research Council of Canada (NSERC). Main participant <br>
 
 [3]	Apr. 2018-Present: High speed, high responsivity and novel photodetectors, Subwavelength novel grating integrated with photodetectors. Collaborated with Prof. Huijuan Niu and Prof. Wenjing Fang. <br>
@@ -92,7 +93,9 @@ Work and Service Experience
 Memberships
 ======
 *	2020-present: Graduate student member, Institute of Electrical and Electronics Engineers (IEEE) <br>
+
 *	2020-present: Graduate student member, IEEE Antennas and Propagation Society (IEEE AP-S)  <br>
+
 *	2020-present: Graduate student member, IEEE Microwave Theory and Techniques Society  (IEEE MTT-S) <br>
 
 
