@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
 Education
 ======
 * Ph.D in Electrical Engineering, Polytechnique Montréal, Université de Montréal, 2023 (expected)
