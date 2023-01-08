@@ -10,28 +10,28 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-======
+## Education
+
 * Ph.D in Electrical Engineering, Polytechnique Montréal, Université de Montréal, 2023 (expected)
 
-Professional Skills
-======
+## Professional Skills
+
 *	Fabulas Lab in Polytechnique: “The RipperTM”, Polishing Machine, Ando Optical Spectrum Analyzer (AQ6317B), Supercontinuum laser, Power meter (PM100), Luna optical backscatter reflectometer (OBR) 4600, Butt-coupling measurement platform setup  <br>
 
 *	 Clean room: Photolithograph, Sputtering deposition, Etching (HF, BOE 6:1 (buffered oxide etchant, 6 parts by volume 40% ammonium fluoride and 1 part by volume 49% HF), H2SO4, HCl, H3PO4, etc.), Nanometrics ECV, Dektak 150 surface profilometer, X-ray Diffraction (XRD) Analysis, Scanning Electron Microscopy (SEM) <br>
 
 *	Software: HFSS, CST, FEKO, ADS, Silvaco ATLAS, CrossLight APSYS <br>
 
-Research Interests
-======
+## Research Interests
+
 *	Femtosecond (fs) laser writing of waveguides and waveguide-based gratings <br>
 *	Sub-THz and high-responsivity uni-traveling-carrier photodetectors (UTC-PDs)  <br>
 *	Si-based subwavelength gratings (SWGs) and SWG integrated optoelectronic devices  <br>
 *	Sub-THz integrated multi-application antennas with UTC-PDs and UTC-PD arrays  <br>
 *	III-V/Si-based device hybrid integration, Epitaxial growth, Devices fabrication in clean room  <br>
 
-Research Experience
-======
+## Research Experience
+
 [1]	Dec. 2022- present: Fabrication of novel Bragg grating in in bulk (low-iron, white) glass by femtosecond laser and measurements.  <br>
 
 [2]	May 2021- Nov. 2022: Fabrication of waveguides (WGs), WG-based dot-Bragg grating and WG-based line-Bragg grating in bulk (low-iron, white) glass by femtosecond laser and measurements.  <br>
@@ -56,8 +56,8 @@ Research Experience
 [9]	Nov. 2006-Nov. 2007: Led a Student Research Training Plan (SRTP) project to design and realize wireless transmission and receiving system. <br>
 
 
-Project Experience
-======
+## Project Experience
+
 [1]	June 2021-Present: Transparent Glass Excited Radiant Element Systems, New Frontiers in Research Fund (NFRF) of Canada. Main participant <br>
 
 [2]	May 2019-Present: Advanced Integrated Antenna Systems for Future Wireless Terminals, Natural Sciences and Engineering Research Council of Canada (NSERC). Main participant <br>
@@ -80,8 +80,8 @@ Project Experience
 
 [11]	Nov. 2006-Nov. 2007: Investigation of the wireless transmission and receiving system, Student Research Training Plan (SRTP) project for undergraduate students (Selected the 2nd place out of over 60 projects in oral defense of projects application), Grants: $540 CAD out of  $600 CAD.  Principal investigator  <br>
 
-Work and Service Experience
-======
+## Work and Service Experience
+
 *	May 2022-Present: Workshop Coordinator and Marketing Manager of IEEE Student Branch of Polytechnique Montreal, Montreal, Canada  <br>
 
 *	Sept. 2013-Mar. 2018: Assisted some professors to supervise some junior Ph.D. and Master students in BUPT to (1) design and simulate high-speed response, high-saturation and high-responsivity UTC-PDs, (2) fabricate optoelectronic devices in clean room, and (3) measure the relevant parameters of the optoelectronic devices, dark current, bandwidth, I-V, output power, etc.  <br>
@@ -90,8 +90,8 @@ Work and Service Experience
 
 *	Aug. 2008-Aug. 2009: Tutored Maths for Middle and High school students in Binzhou, China  <br>
 
-Memberships
-======
+## Memberships
+
 *	2020-present: Graduate student member, Institute of Electrical and Electronics Engineers (IEEE) <br>
 
 *	2020-present: Graduate student member, IEEE Antennas and Propagation Society (IEEE AP-S)  <br>
